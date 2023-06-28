@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @harperknight, a student at Baltimore University.
+- 👀 I’m interested in machine learning, programming (still lerning), and hacking
